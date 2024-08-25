@@ -1,3 +1,4 @@
-# osr_course_pkgs
+Take home test for Eureka Robotics software engineer internship role
 
-Dockerfile is available [here](https://github.com/nicholasadr/dockerfiles/tree/master/osrobotics-kinetic).
+Name: Abhinav
+Programmed in Python
